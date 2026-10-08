@@ -113,7 +113,6 @@ Tabel, jumlah baris, total keseluruhan, dan counter genap dihitung dalam satu ka
 | `total_baris = 0` ditaruh di dalam loop dalam | Total direset pada setiap pasangan, jumlah baris hanya mencerminkan nilai terakhir | Pindahkan ke dalam loop luar, sebelum loop dalam |
 | `total_semua = 0` ditaruh di dalam loop luar | Total keseluruhan ikut direset di setiap baris, hasil akhir salah | Buat sekali saja sebelum kedua loop |
 
-
 ## Sumber dan Bantuan
 
 | Sumber | Keterangan |
